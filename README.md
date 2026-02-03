@@ -3,7 +3,6 @@
 SV Infotech Chatbot is a web-based AI chatbot built using **Flask**, **HTML/CSS (Bootstrap)**, and **OpenRouter free AI models**.  
 It provides a clean, mobile-friendly chat interface similar to ChatGPT and can be used by multiple users on the same Wi-Fi network.
 
----
 
 ## 🚀 Features
 
@@ -43,9 +42,10 @@ sv-infotech-chatbot/
 ├── requirements.txt
 │
 ├── templates/
-│ └── index.html
+│   └── index.html
 │
 └── static/
-├── style.css
-├── script.js
-└── typing.gif
+    ├── style.css
+    └── script.js
+    └── typing.gif
+
