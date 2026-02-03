@@ -7,7 +7,7 @@ CORS(app)  # Enable CORS for frontend communication
 
 # Initialize OpenAI client
 client = OpenAI(
-    api_key="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",  # Replace with your actual API key
+    api_key="your_api_key_here",  # Replace with your actual API key
     base_url="https://openrouter.ai/api/v1" # For the free model
 )
 
@@ -78,3 +78,4 @@ def clear_history():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
