@@ -11,7 +11,7 @@ It provides a clean, mobile-friendly chat interface similar to ChatGPT and can b
 
 ## 🚀 Features
 
-- 💬 ChatGPT-like conversational UI
+- 💬 Real-time messaging interface
 - 📱 Fully responsive (mobile & desktop)
 - ⚡ Uses **free OpenRouter models** with auto-fallback
 - 🔁 Automatic model switching if one is busy
