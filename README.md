@@ -50,10 +50,3 @@ sv-infotech-chatbot/
     ├── style.css
     └── script.js
     └── typing.gif
-
-
-
-https://github.com/user-attachments/assets/c09950ed-f0a0-40d9-a29f-029a2a19fcda
-
-
-
