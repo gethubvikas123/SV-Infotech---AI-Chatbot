@@ -41,15 +41,6 @@ It provides a clean, mobile-friendly chat interface similar to ChatGPT and can b
 
 ## 📂 Project Structure
 
-sv-infotech-chatbot/
-│
-├── run.py
-├── requirements.txt
-│
-├── templates/
-│   └── index.html
-│
-└── static/
-    ├── style.css
-    └── script.js
-    └── typing.gif
+<img width="260" height="284" alt="Screenshot 2026-02-05 105725" src="https://github.com/user-attachments/assets/b6b22ed2-4ac8-4001-a599-d80fec3a5aa4" />
+
+
