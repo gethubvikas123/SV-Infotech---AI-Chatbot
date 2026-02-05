@@ -41,6 +41,6 @@ It provides a clean, mobile-friendly chat interface similar to ChatGPT and can b
 
 ## 📂 Project Structure
 
-<img width="260" height="284" alt="Screenshot 2026-02-05 105725" src="https://github.com/user-attachments/assets/b6b22ed2-4ac8-4001-a599-d80fec3a5aa4" />
+<img width="157" height="250" alt="Screenshot 2026-02-05 104850" src="https://github.com/user-attachments/assets/18e05450-3e5f-4188-8ea3-78397819b8f0" />
 
 
