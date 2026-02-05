@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/42bf4250-cb4f-4dce-9839-bda55510b1ee
 # 🤖 SV Infotech Chatbot
 
 SV Infotech Chatbot is a web-based AI chatbot built using **Flask**, **HTML/CSS (Bootstrap)**, and **OpenRouter free AI models**.  
@@ -49,4 +51,9 @@ sv-infotech-chatbot/
     └── script.js
     └── typing.gif
 
-<video src="(https://drive.google.com/file/d/18-X1b19MeMudm8PyugeSVvlorz1FCjs1/view?usp=drivesdk)" width="640" controls></video>
+
+
+https://github.com/user-attachments/assets/c09950ed-f0a0-40d9-a29f-029a2a19fcda
+
+
+
